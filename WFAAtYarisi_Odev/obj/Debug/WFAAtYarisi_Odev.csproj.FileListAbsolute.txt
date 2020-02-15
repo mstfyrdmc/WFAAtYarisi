@@ -1,0 +1,30 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\bin\Debug\WFAAtYarisi_Odev.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Ödevler\7.Ders Ödevi\WFAAtYarisi_Odev_Spikerli\WFAAtYarisi_Odev\obj\Debug\WFAAtYarisi_Odev.pdb
